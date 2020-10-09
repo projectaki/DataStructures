@@ -1,3 +1,5 @@
+// Class that implements a resizing array of generic type
+
 import java.util.NoSuchElementException;
 
 public class ResizingArray<T> {
@@ -66,55 +68,5 @@ public class ResizingArray<T> {
     {
         return arr[i];
     }
-
-    public int test()
-    {
-        return arr.length;
-    }
-
-    public static void main(String[] args)
-    {
-        ResizingArray<Integer> arr = new ResizingArray<>();
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.add(5);
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-        arr.remove();
-
-
-        for (int i = 0; i < arr.size(); i++)
-        {
-            System.out.println(arr.get(i));
-        }
-        System.out.println(arr.test());
-
-
-
-    }
-
-
-
-
-
-
-
-
-
-
-
 
 }
