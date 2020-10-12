@@ -29,9 +29,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.StringBuilder">
+  <component name="RunManager" selected="Application.Stack">
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
     </configuration>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -48,6 +48,11 @@
       <module name="DataStructures" />
       <method v="2" />
     </configuration>
+    <configuration name="LinkedList" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+      <module name="DataStructures" />
+      <method v="2" />
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DataStructures" />
@@ -59,8 +64,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Queue" />
+      <module name="DataStructures" />
+      <method v="2" />
+    </configuration>
     <configuration name="ResizingArray" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ResizingArray" />
+      <module name="DataStructures" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stack" />
       <module name="DataStructures" />
       <method v="2" />
     </configuration>
@@ -70,7 +85,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -87,22 +102,22 @@
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1921" height="298" key="GridCell.Tab.0.bottom" timestamp="1602426413996">
+    <state width="1921" height="298" key="GridCell.Tab.0.bottom" timestamp="1602505364577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602426413996" />
-    <state width="1921" height="298" key="GridCell.Tab.0.center" timestamp="1602426413996">
+    <state width="1921" height="298" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602505364577" />
+    <state width="1921" height="298" key="GridCell.Tab.0.center" timestamp="1602505364577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602426413996" />
-    <state width="1921" height="298" key="GridCell.Tab.0.left" timestamp="1602426413995">
+    <state width="1921" height="298" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602505364577" />
+    <state width="1921" height="298" key="GridCell.Tab.0.left" timestamp="1602505364577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602426413995" />
-    <state width="1921" height="298" key="GridCell.Tab.0.right" timestamp="1602426413996">
+    <state width="1921" height="298" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602505364577" />
+    <state width="1921" height="298" key="GridCell.Tab.0.right" timestamp="1602505364577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1921" height="298" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602426413996" />
+    <state width="1921" height="298" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602505364577" />
     <state width="1921" height="368" key="GridCell.Tab.1.bottom" timestamp="1602249797723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
